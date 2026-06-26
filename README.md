@@ -3,7 +3,12 @@
 **PhD Researcher**
 Computer Graphics Group • University of Tübingen
 
-I work at the intersection of **computer vision**, **self-supervised learning**, and **computational imaging**, with a particular interest in learning representations for inverse imaging problems and structured-light acquisition.
+Computer vision researcher specializing in self-supervised and representation learning, with first-author
+publications at top venues (ECCV 2026, NeurIPS 2026 under review) and two granted patents. Interested
+in the design of self-supervised objectives and the theory of representation quality — dimensional and
+neural collapse, effective-rank diagnostics, and the training dynamics behind them. Combines this with the
+engineering depth to take ideas from hypothesis to result independently: distributed multi-GPU large-scale
+training and rigorous empirical evaluation.
 
 ---
 
