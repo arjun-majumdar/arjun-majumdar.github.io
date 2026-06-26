@@ -108,6 +108,6 @@ Exploring how modern representation learning can replace expensive acquisition p
 
 **Arjun Majumdar**
 
-📧 [arjun.majumdar@uni-tuebingen.de](mailto:arjun.majumdar@uni-tuebingen.de)
+📧 [arjun.majumdar@uni-tuebingen.de](mailto:arjun.majumdar.emil@gmail.com)
 
 Google Scholar • GitHub • LinkedIn • CV
