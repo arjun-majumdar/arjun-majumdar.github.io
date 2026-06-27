@@ -77,7 +77,7 @@ Research on phase-shift profilometry, Gray-code structured light, projector-came
 
 ## 🧬 Representation Learning for Computational Imaging
 
-Exploring how modern representation learning can replace expensive acquisition pipelines in computational photography, inverse rendering, and optical imaging.
+Exploring how modern representation learning can replace expensive acquisition pipelines in computational photography, and optical imaging.
 
 ---
 
