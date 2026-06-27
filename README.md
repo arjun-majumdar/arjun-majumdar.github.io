@@ -57,7 +57,7 @@ Our VMV 2025 paper presents a neural acquisition pipeline for estimating dense s
 
 ## 🧠 Augment Smarter, Not Harder (NeurIPS – Work in Progress)
 
-Current research on preventing dimensional collapse in self-supervised learning by adapting augmentation strength based on representation geometry. The project introduces collapse-aware augmentation control for SimSiam and related SSL methods.
+Current research on preventing dimensional collapse in self-supervised learning by adapting augmentation strength based on representation geometry. The project introduces collapse-aware augmentation control for SimSiam.
 
 **Topics**
 
@@ -92,6 +92,8 @@ Exploring how modern representation learning can replace expensive acquisition p
 ### VMV 2025
 
 **Neural Acquisition and Representation of Subsurface Scattering**
+
+---
 
 ### IEEE VAST 2019
 
