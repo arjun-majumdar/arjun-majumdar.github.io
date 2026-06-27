@@ -16,12 +16,12 @@ training and rigorous empirical evaluation.
 
 * Self-Supervised Learning (SSL)
 * Computer Vision
+* Representation Learning
+* Neural Network Pruning, Compression and Optimization
+* Deep Learning for Optical Imaging
 * Computational Imaging & Photography
 * 3D Scanning
 * Structured Light
-* Representation Learning
-* Inverse Problems
-* Deep Learning for Optical Imaging
 * Subsurface Scattering
 
 ---
@@ -32,7 +32,7 @@ training and rigorous empirical evaluation.
 
 **Self-Supervised Learning of Subsurface Scattering with Minimal Phase-shift Inputs**
 
-Our ECCV 2026 paper introduces a self-supervised framework that learns physically meaningful subsurface-scattering representations directly from phase-shift profilometry (PSP) measurements. Using only a handful of structured-light images, the method predicts dense scattering footprints that enable realistic relighting while reducing acquisition time by several orders of magnitude.
+Our ECCV 2026 paper introduces a self-supervised framework that learns physically meaningful and generalizable subsurface-scattering representations directly from phase-shift profilometry (PSP) measurements. Using only 8 structured-light PSP images, the method apart from other tasks can also predict dense, local scattering footprints that enable realistic relighting while reducing acquisition time by several orders of magnitude.
 
 **Links**
 
