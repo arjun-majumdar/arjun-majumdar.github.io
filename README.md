@@ -93,6 +93,12 @@ Exploring how modern representation learning can replace expensive acquisition p
 
 **Neural Acquisition and Representation of Subsurface Scattering**
 
+### IEEE VAST 2019
+
+**Earthquake Investigation and Visual Cognizance of Multivariate Temporal Tabular Data Using Machine Learning**
+
+🏅 *Honorable Mention, IEEE VAST Challenge 2019*
+
 ---
 
 # 🛠 Open-Source Projects
