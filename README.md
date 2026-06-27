@@ -36,8 +36,8 @@ Our ECCV 2026 paper introduces a self-supervised framework that learns physicall
 
 **Links**
 
-* 📄 Paper
-* 💻 Code
+* 📄 [Paper]()
+* 💻 [Code](https://github.com/arjun-majumdar/from-phase-to-phenomenon)
 * 📑 Supplementary
 * 🌐 Project Page
 
@@ -49,8 +49,8 @@ Our VMV 2025 paper presents a neural acquisition pipeline for estimating dense s
 
 **Links**
 
-* 📄 Paper
-* 💻 Code
+* 📄 [Paper](https://arxiv.org/abs/2606.02292)
+* 💻 Code(https://github.com/arjun-majumdar/neural_subsurface_scattering)
 * 🌐 Project Page
 
 ---
@@ -116,6 +116,6 @@ Exploring how modern representation learning can replace expensive acquisition p
 
 **Arjun Majumdar**
 
-📧 [arjun.majumdar@uni-tuebingen.de](mailto:arjun.majumdar.emil@gmail.com)
+📧 [Email](mailto:arjun.majumdar.emil@gmail.com)
 
 Google Scholar • GitHub • LinkedIn • CV
