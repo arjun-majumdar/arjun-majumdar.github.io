@@ -50,7 +50,7 @@ Our VMV 2025 paper presents a neural acquisition pipeline for estimating dense s
 **Links**
 
 * 📄 [Paper](https://arxiv.org/abs/2606.02292)
-* 💻 Code(https://github.com/arjun-majumdar/neural_subsurface_scattering)
+* 💻 [Code](https://github.com/arjun-majumdar/neural_subsurface_scattering)
 * 🌐 Project Page
 
 ---
